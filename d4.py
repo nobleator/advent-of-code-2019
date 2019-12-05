@@ -44,7 +44,7 @@ def d4_2(data):
 data = "168630-718098"
 
 # Part 1
-# print(f"Part 1 {d4_1(data)}")
+print(f"Part 1 {d4_1(data)}")
 
 # Part 2
 print(f"Part 2 {d4_2(data)}")
